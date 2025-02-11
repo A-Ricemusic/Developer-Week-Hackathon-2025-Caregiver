@@ -56,7 +56,7 @@ The Caregiver **frontend** is built using **Oracle APEX**, which provides **SQL-
 
 ## **Technology Stack**
 
-- **LLM:** Hugging Face Transformers (**TinyZero model**, distilled from DeepSeek R1 Zero)
+- **LLM:** Hugging Face Transformers (**DeepSeek-R1-Distill-Qwen 1.5B**, distilled from DeepSeek R1 Zero)
 - **Database:** Redis (Vector database + Key-Value store for chatbot memory)
 - **Frontend:** Oracle APEX
 - **Data Visualization:** SQL queries (Oracle APEX dashboards)
@@ -106,7 +106,7 @@ The **backend API** is hosted on **Hugging Face Spaces** and serves as the **cor
 
 - **`app.py`**
   - Handles API requests
-  - Integrates with the **LLM (TinyZero or Minstrel)** for medical chatbot functionality
+  - Integrates with the **LLM (DeepSeek-R1-Distill-Qwen 1.5B or Minstrel)** for medical chatbot functionality
   - Queries the Redis vector database for event lookups
   - Key API endpoints:
     - `/api/data`: AI-powered medical & facility chatbot
