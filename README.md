@@ -45,7 +45,7 @@ The Caregiver **frontend** is built using **Oracle APEX**, which provides **SQL-
 
 ## **Key Features**
 
-- **AI-Powered Assistance:** Uses *DeepSeek-R1-Distill-Qwen 1.5B** to provide medical insights and facility-related information.
+- **AI-Powered Assistance:** Uses **DeepSeek-R1-Distill-Qwen 1.5B** to provide medical insights and facility-related information.
 - **Vector Database (Redis):** Stores event data and health statistics for efficient AI retrieval.
 - **Conversation History:** Enables contextual, personalized AI interactions.
 - **Data Visualization:** SQL-based dashboards in **Oracle APEX** present key health metrics.
