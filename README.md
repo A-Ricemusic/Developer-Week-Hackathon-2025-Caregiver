@@ -1,6 +1,6 @@
 # Caregiver: AI-Powered Assistance for Assisted Living Facilities
 
-For a full breakdown please read the caregiver.pdf file located in the directory
+For a full breakdown please read the My Caregiver.pdf file located in the directory
 
 Caregiver is an innovative AI-driven application designed to optimize the management of **assisted living facilities**. By integrating **conversational AI**, **vector search technology**, **data visualization**, and **real-time event notifications**, Caregiver empowers facility administrators with **intelligent insights** and **enhanced operational efficiency**. The application is designed to provide **accurate medical guidance, streamlined event tracking, and engaging cognitive exercises** for residents.
 
